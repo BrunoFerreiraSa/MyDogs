@@ -39,8 +39,6 @@ proguard/
 # Android Studio captures folder
 captures/
 
-google-services.json
-
 # IntelliJ
 *.iml
 .idea/workspace.xml
@@ -64,7 +62,7 @@ google-services.json
 .externalNativeBuild
 
 # Google Services (e.g. APIs or Firebase)
-# google-services.json
+*google-services.json
 
 # Freeline
 freeline.py
