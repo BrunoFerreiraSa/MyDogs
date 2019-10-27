@@ -1,1 +1,1 @@
-MyDogs - Trabalho da diciplina de banco de dados NoSql.
+MyDogs - Trabalho da disciplina de banco de dados NoSql.
